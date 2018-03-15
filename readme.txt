@@ -6,5 +6,5 @@ Creating a new branch is AND quick.
 Switched to branch manager.
 
 who wil win the battle.
-BUg
 
+fiexed
