@@ -4,5 +4,7 @@ Git ha a mutale index called stage.
 Git tracks changes.
 Creating a new branch is AND quick.
 Switched to branch manager.
-who will win the battle.
+
+who wil win the battle.
+BUg
 
